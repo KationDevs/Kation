@@ -1,19 +1,19 @@
 {
   "meta": {
-    "title": "Luna Landing your perfect landing page",
-    "description": "Landing page template",
+    "title": "Kation",
+    "description": "Kation is a organization that seeks to create new and innovative solutions",
     "lang": "en",
     "charset": "UTF-8",
     "ldJson": {
       "@context": "http://schema.org",
       "@type": "Organization",
-      "name": "Luna Landing",
-      "description": "Fictitious company that seeks to elevate and simplify the lives of web developers.",
+      "name": "Kation",
+      "description": "Kation is a organization that seeks to create new and innovative solutions",
       "url": "https://luna-landing-rust.vercel.app/",
       "logo": "./public/favicon.svg",
       "contactPoint": {
         "@type": "ContactPoint",
-        "email": "luna-landing@luna.com",
+        "email": "kationdevs365@gmail.com",
         "contactType": "Client Service"
       },
       "sameAs": [
@@ -24,21 +24,16 @@
     }
   },
   "headerData": {
-    "logo": "Luna Landing",
+    "logo": "Kation",
     "links": [
-      { "label": "About", "href": "#" },
-      { "label": "Services", "href": "#" },
-      { "label": "Prices", "href": "#" },
-      { "label": "FAQs", "href": "#" },
-      { "label": "Blog", "href": "#" }
     ]
   },
   "heroData": {
     "title": "Open Your Mind to the Universe: Welcome to",
-    "subTitle": "Discover the Beauty of the Cosmos: Explore the Infinite Wonders of Space with Us",
+    "subTitle": "Discover the Beauty of the Software: Explore the Infinite Wonders of Code with Us",
     "primaryCta": "Github Repo",
-    "secondaryCta": "See our pricing",
-    "highlightedTitle": "Luna Landing"
+    "secondaryCta": "See our projects",
+    "highlightedTitle": "Kation"
   },
   "servicesData": {
     "title": "Everything you need to build a website",
@@ -66,7 +61,7 @@
     ]
   },
   "adventajesData": {
-    "title": "    Unlock the Power of Luna Landing: Discover the Key Benefits",
+    "title": "    Unlock the Power of Kation: Discover the Key Benefits",
     "adventajes": [
       {
         "title": "Take Your Website to Perfection",
@@ -91,14 +86,14 @@
       { "label": "React", "icon": "ReactIcon", "href": "https://react.dev/" },
       { "label": "Vue", "icon": "VueIcon", "href": "https://vuejs.org/" },
       {
-        "label": "Svelte",
-        "icon": "SvelteIcon",
-        "href": "https://svelte.dev/"
+        "label": "Lit",
+        "icon": "LitIcon",
+        "href": "https://lit.dev/"
       },
       {
-        "label": "Solid",
-        "icon": "SolidIcon",
-        "href": "https://www.solidjs.com/"
+        "label": "Angular",
+        "icon": "AngularIcon",
+        "href": "https://www.angular.com/"
       },
       {
         "label": "Vercel",
@@ -106,9 +101,9 @@
         "href": "https://vercel.com/"
       },
       {
-        "label": "Netlify",
-        "icon": "NetlifyIcon",
-        "href": "https://www.netlify.com/"
+        "label": "FastApi",
+        "icon": "FastApiIcon",
+        "href": "https://www.fastapi.com/"
       }
     ]
   },
@@ -116,69 +111,29 @@
     "title": "Our Pricing",
     "tiers": [
       {
-        "title": "Starter",
-        "description": "Best option for personal use & for your next project.",
+        "title": "Custom",
+        "description": "Best option for custom projects.",
         "price": {
-          "amount": "Free"
+          "amount": "Contact us"
         },
         "features": [
-          "feature 1",
-          "feature 2",
-          "feature 3",
-          "feature 4",
-          "feature 5"
-        ],
-        "cta": "Get started"
-      },
-      {
-        "title": "Professional",
-        "description": "Relevant for multiple users, extended & premium support.",
-        "price": {
-          "amount": "$29",
-          "period": "/month"
-        },
-        "features": [
-          "feature 1",
-          "feature 2",
-          "feature 3",
-          "feature 4",
-          "feature 5"
-        ],
-        "cta": "Get started"
-      },
-      {
-        "title": "Enterprise",
-        "description": "Best for large scale uses and extended redistribution rights.",
-        "price": {
-          "amount": "$59",
-          "period": "/month"
-        },
-        "features": [
-          "feature 1",
-          "feature 2",
-          "feature 3",
-          "feature 4",
-          "feature 5"
+          "Stack",
+          "Database",
+          "Deployment",
+          "Support",
+          "Customization"
         ],
         "cta": "Get started"
       }
     ]
   },
   "footerData": {
-    "logo": "Luna Landing",
-    "description": "Discover the Beauty of the Cosmos: Explore the Infinite Wonders of Space with Us",
+    "logo": "Kation",
+    "description": "Discover the Beauty of the Software: Explore the Infinite Wonders of Code with Us",
     "links": [
-      { "label": "About", "href": "/" },
-      { "label": "Services", "href": "/" },
-      { "label": "Blog", "href": "/" },
-      { "label": "FAQs", "href": "/" },
-      { "label": "Contact", "href": "/" }
     ],
     "socials": [
-      { "icon": "FacebookIcon", "href": "/" },
-      { "icon": "InstagramIcon", "href": "/" },
-      { "icon": "TwitterIcon", "href": "/" },
-      { "icon": "GithubIcon", "href": "/" }
+      
     ]
   }
 }

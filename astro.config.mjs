@@ -9,6 +9,6 @@ export default defineConfig({
   site: import.meta.env.DEV
     ? "http://localhost:4321"
     : "https://KationDevs.github.io",
-	base: "/",
+	base: "/Kation",
   integrations: [tailwind(), sitemap(), robotsTxt()],
 });

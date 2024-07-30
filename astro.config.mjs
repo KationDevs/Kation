@@ -9,6 +9,6 @@ export default defineConfig({
   site: import.meta.env.DEV
     ? "http://localhost:4321"
     : "https://KationDevs.github.io",
-	base: import.meta.env.DEV ? "" : "/astro-sitemap",
+	base: "/",
   integrations: [tailwind(), sitemap(), robotsTxt()],
 });

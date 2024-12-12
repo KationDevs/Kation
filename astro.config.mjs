@@ -8,7 +8,7 @@ import robotsTxt from "astro-robots-txt";
 export default defineConfig({
   site: import.meta.env.DEV
     ? "http://localhost:4321"
-    : "https://KationDevs.github.io",
-	base: "/Kation",
+    : "https://www.kation.dev",
+	base: "/",
   integrations: [tailwind(), sitemap(), robotsTxt()],
 });
